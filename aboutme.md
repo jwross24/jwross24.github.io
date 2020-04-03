@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About Me
-subtitle: A short bio and my skills
 published: true
 ---
 I'm **Jonathan Ross**, a data scientist with a focus on working on projects with new, engaging technologies and high-impact results.

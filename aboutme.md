@@ -25,4 +25,4 @@ Throughout my educational experiences, I have worked on many interesting project
 
 ## My Work
 
-To see what I've learned or what I've done recently, head over to the [blog](https://jwross24.github.io/), my [project portfolio][https://jwross24.github.io/projects], or take a look at my [résumé][https://jwross24.github.io/resume] for a quicker, but shorter summary.
+To see what I've learned or what I've done recently, head over to the [blog](https://jwross24.github.io/), my [project portfolio](https://jwross24.github.io/projects), or take a look at my [résumé](https://jwross24.github.io/resume) for a quicker, but shorter summary.

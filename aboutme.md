@@ -20,8 +20,38 @@ Here's a cursory rundown of my education history:
     - Network Security
 - Lambda School, Data Science and Computer Science
 
-Throughout my educational experiences, I have worked on many interesting projects in data analytics, data science, data engineering, and machine learning, and continue to do so! While at Lambda School, especially, I gained strong technical experience in many relevant technologies, as well as creative problem-solving, communication, and organizational skills while working as a part of several different teams.
+Throughout my educational experiences, I have worked on many interesting [projects](https://jwross24.github.io/projects) in data analytics, data science, data engineering, and machine learning, and continue to do so! While at Lambda School, especially, I gained strong technical experience in many relevant technologies, as well as creative problem-solving, communication, and organizational skills while working as a part of several different teams.
 
 ## My Work
 
-To see what I've learned or what I've done recently, head over to the [blog](https://jwross24.github.io/), my [project portfolio](https://jwross24.github.io/projects), or take a look at my [résumé](https://jwross24.github.io/resume) for a quicker, but shorter summary.
+To see what I've learned or what I've done recently, head over to the [blog](https://jwross24.github.io/) to see my current write-ups, or check out my [project portfolio](https://jwross24.github.io/projects).
+
+## Skills
+
+### Python Libraries and Frameworks
+
+**Data Analysis and Visualization:** Pandas, NumPy, matplotlib, Seaborn, Plotly
+
+**Database:** FastAPI, Flask, SQLAlchemy, Psycopg2, SQLite3
+
+**Web Scraping:** BeautifulSoup, Selenium
+
+**Machine Learning:** SciKit-Learn, XGBoost, TensorFlow, Keras
+
+**NLP:** Spacy, Gensim, pyLDAvis
+
+### Database Skills
+
+SQL, REST API, PostgreSQL, SQLite, JSON, Extract, Transform, Load (ETL), Amazon Web Services (AWS), MongoDB
+
+### Tools
+
+Jupyter (IPython), Git / Version Control, Heroku, Anaconda, Docker
+
+### Data-Related Skills
+
+Data Analysis, Data Cleaning, Data Visualization, Data Manipulation, Data Mining, Hypothesis Tests, Probability
+
+---
+
+In addition to these skills, I am currently learning some big data technologies with Hadoop and Spark and web technologies with HTML, CSS, and React.

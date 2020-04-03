@@ -36,7 +36,7 @@ a:focus {
   color: {{ site.hover-col }};
 }
 blockquote {
-  color: #808080;
+  color: {{ site.footer-col }};
   font-style: italic;
 }
 blockquote p:first-child {
@@ -348,7 +348,7 @@ footer .theme-by {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: #808080;
+  color: {{ site.footer-col }};
   font-size: 18px;
   font-style: italic;
   margin: 0 0 10px;
@@ -785,7 +785,7 @@ pre {
 }
 
 #full-tags-list .tag-entry .entry-date {
-  color: #808080;
+  color: {{ site.footer-col }};
   font-style: italic;
   font-size: 16px;
 }

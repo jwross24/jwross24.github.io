@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Jonathan Ross - Data Scientist
+title: Jonathan Ross
 
 # Short description of your site
-description: Showing off my Data Science chops
+description: My personal portfolio website
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,6 +20,8 @@ description: Showing off my Data Science chops
 
 # List of links in the navigation bar
 navbar-links:
+  Home: ""
+  Projects: "projects"
   About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"

@@ -20,7 +20,7 @@ description: Personal Portfolio
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: ""
+  Blog: " "
   Projects: "projects"
   About Me: "aboutme"
 #  Resources:

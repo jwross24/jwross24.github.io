@@ -22,16 +22,11 @@ p {
   line-height: 1.5;
   margin: 30px 0;
 }
-h1,h2 {
-  font-family: 'PT Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 500;
-  color: #28ACE2
-}
 
-h3,h4,h5,h6 {
+h1,h2,h3,h4,h5,h6 {
   font-family: 'PT Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 500;
-  color: #28ACE2
+  color: {{ site.navbar-col }};
 }
 a {
   color: {{ site.link-col }};
@@ -131,7 +126,7 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  font-weight: 500;
+  font-weight: 800;
   color: {{ site.navbar-text-col }};
 }
 

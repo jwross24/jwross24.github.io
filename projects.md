@@ -5,13 +5,13 @@ subtitle: Ongoing and previous work
 published: true
 show-avatar: false
 ---
-![Project Canopy]({{site.baseurl}}/img/project-canopy-banner.png)
+![Project Canopy]({{site.baseurl}}/img/project-canopy-banner.png){: .center-block :}
 
 ## [Project Canopy](https://projectcanopy.org/)
 
 ### Provide a centralized and easily accessible Congo River Basin rainforest data dashboard and repository
 
-Python (FastAPI | SQLAlchemy | Pandas | Pytest) | JSON | REST API | AWS | PostgreSQL
+Python (FastAPI \| SQLAlchemy \| Pandas \| Pytest) \| JSON \| REST API \| AWS \| PostgreSQL
 
 - Built from scratch in less than 8 weeks with a team of eight other engineers and one UI/UX designer in an Agile environment
 - Personally devised REST API functionality and unit tests, architected database with data on over 4,000 affected species, collected, scraped, and investigated messy species data

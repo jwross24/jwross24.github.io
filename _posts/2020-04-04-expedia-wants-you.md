@@ -60,9 +60,9 @@ The final piece of data that I wanted to take a look at is the (advertising) **c
 We were also given the exact day and time that each click event occurred. From this data, each date and time was converted to a Pandas datetime. Only the `month` column was recovered after converting the datetime in order to provide this analysis. The three advertising channels that I was particularly interested in were the most popular (541), and the two channels with the least mobile traffic (386 and 479).
 
 <p align="middle">
-  <img src="/img/expedia-hotel-data/eda/eda10.png" width="33%" />
-  <img src="/img/expedia-hotel-data/eda/eda11.png" width="33%" /> 
-  <img src="/img/expedia-hotel-data/eda/eda12.png" width="33%" /> 
+  <img src="/img/expedia-hotel-data/eda/eda10.png" width="51%" />
+  <img src="/img/expedia-hotel-data/eda/eda11.png" width="49.5%" /> 
+  <img src="/img/expedia-hotel-data/eda/eda12.png" width="49.5%" /> 
 </p>
 
 Compared to the other advertising channels that were provided in the data, channel 541 started in May 2015 and lends to a huge amount of traffic compared to the other channels.

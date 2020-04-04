@@ -10,10 +10,6 @@ show-avatar: false
   [hyperlink]: https://projectcanopy.org/
   [image]: {{site.baseurl}}/img/project-canopy-banner.png
 
-![Project Canopy]({{site.baseurl}}/img/project-canopy-banner.png){: .center-block :}
-
-## [Project Canopy](https://projectcanopy.org/)
-
 ### Provide a centralized and easily accessible Congo River Basin rainforest data dashboard and repository
 
 Python (FastAPI \| SQLAlchemy \| Pandas \| Pytest) \| JSON \| REST API \| AWS \| PostgreSQL

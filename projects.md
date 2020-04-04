@@ -8,7 +8,7 @@ show-avatar: false
 [![alt text][image]][hyperlink]{: .center-block :}
 
   [hyperlink]: https://projectcanopy.org/
-  [image]: {{site.baseurl}}/img/project-canopy-banner.png
+  [image]: {{site.baseurl}}/img/project-canopy-banner.png "Project Canopy"
 
 ### Provide a centralized and easily accessible Congo River Basin rainforest data dashboard and repository
 
@@ -22,9 +22,12 @@ Source code can be found [here](https://github.com/Lambda-School-Labs/project-ca
 
 ---
 
-![Spotify Banner](
+[![alt text][image]][hyperlink]{: .center-block :}
 
-## Spotify Song Suggester
+  [hyperlink]: https://sss-data-backend.herokuapp.com/
+  [image]: {{site.baseurl}}/img/spotify-banner.png "Spotify Song Suggester"
+
+## Spotify Song Suggester Data Backend
 
 ### Suggest new tracks on Spotify related to user's input based on track's audio features
 
@@ -35,7 +38,6 @@ Python (Flask \| SQLAlchemy \| Pandas \| SciKit-Learn \| matplotlib \| NumPy) \|
 - Developed API application using Flask and SQLAlchemy, deployed database on AWS RDS with PostgreSQL, merged and analyzed data with Pandas
 
 Source code can be found [here](https://github.com/bw-spotify-song-suggester-4/data-science).
-Deployed backend can be found [here](https://sss-data-backend.herokuapp.com/).
 
 ---
 

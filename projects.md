@@ -41,3 +41,39 @@ Source code can be found [here](https://github.com/bw-spotify-song-suggester-4/d
 
 ---
 
+[![alt text][image3]][hyperlink3]{: .center-block :}
+
+  [hyperlink3]: https://medium.com/@jwross24/predicting-malware-and-protecting-windows-machines-with-machine-learning-44cd92691fda
+  [image3]: {{site.baseurl}}/img/microsoft-banner.png "Microsoft Malware Prediction"
+
+## Microsoft Malware Prediction
+
+### Predictive modeling and machine learning with Microsoft Malware big dataset
+
+Python (matplotlib \| dask \| NumPy \| Pandas \| SciKit-Learn)
+
+- Performed analysis individually in less than 1 week
+- Collected, cleaned, investigated, and visualized over 17,000,000 rows of data, trained and interpreted machine learning models on a 5% subset
+- Wrote a custom function for minimizing the size of a DataFrame in memory
+- Built and validated machine learning models in SciKit-Learn, manipulated data with Pandas and NumPy
+
+Source code can be found [here](https://github.com/jwross24/DS-Unit-2-Build).
+
+---
+
+[![alt text][image4]][hyperlink4]{: .center-block :}
+
+  [hyperlink4]: https://medium.com/@jwross24/expedia-wants-you-87217e12cbc3
+  [image4]: {{site.baseurl}}/img/microsoft-banner.png "Expedia Hotel Data Storytelling"
+
+## Expedia Hotel Data Storytelling
+
+### Data storytelling and visualization project on 2015 Expedia hotel data for further business analysis
+
+Python (matplotlib \| Seaborn \| NumPy \| Pandas \| SciKit-Learn)
+
+- Performed analysis individually in less than 1 week
+- Collected, cleaned, investigated, and visualized data, trained and interpreted clustering algorithm on 6,000,000 rows
+- Visualized data with customized graphs built in matplotlib and Seaborn, manipulated data with Pandas and NumPy
+
+Source code can be found [here](https://github.com/jwross24/DS-Unit-1-Build).

@@ -5,10 +5,10 @@ subtitle: Ongoing and previous work
 published: true
 show-avatar: false
 ---
-[![alt text][image]][hyperlink]{: .center-block :}
+[![alt text][image1]][hyperlink1]{: .center-block :}
 
-  [hyperlink]: https://projectcanopy.org/
-  [image]: {{site.baseurl}}/img/project-canopy-banner.png "Project Canopy"
+  [hyperlink1]: https://projectcanopy.org/
+  [image1]: {{site.baseurl}}/img/project-canopy-banner.png "Project Canopy"
 
 ### Provide a centralized and easily accessible Congo River Basin rainforest data dashboard and repository
 
@@ -22,10 +22,10 @@ Source code can be found [here](https://github.com/Lambda-School-Labs/project-ca
 
 ---
 
-[![alt text][image]][hyperlink]{: .center-block :}
+[![alt text][image2]][hyperlink2]{: .center-block :}
 
-  [hyperlink]: https://sss-data-backend.herokuapp.com/
-  [image]: {{site.baseurl}}/img/spotify-banner.png "Spotify Song Suggester"
+  [hyperlink2]: https://sss-data-backend.herokuapp.com/
+  [image2]: {{site.baseurl}}/img/spotify-banner.png "Spotify Song Suggester"
 
 ## Spotify Song Suggester Data Backend
 

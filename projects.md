@@ -64,7 +64,7 @@ Source code can be found [here](https://github.com/jwross24/DS-Unit-2-Build).
 [![alt text][image4]][hyperlink4]{: .center-block :}
 
   [hyperlink4]: https://medium.com/@jwross24/expedia-wants-you-87217e12cbc3
-  [image4]: {{site.baseurl}}/img/microsoft-banner.png "Expedia Hotel Data Storytelling"
+  [image4]: {{site.baseurl}}/img/expedia-banner.jpg "Expedia Hotel Data Storytelling"
 
 ## Expedia Hotel Data Storytelling
 

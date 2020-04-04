@@ -5,10 +5,10 @@ subtitle: Ongoing and previous work
 published: true
 show-avatar: false
 ---
-[![alt text][image1]][hyperlink1]{: .center-block :}
+[![alt text][image]][hyperlink]{: .center-block :}
 
-  [hyperlink1]: https://projectcanopy.org/
-  [image1]: {{site.baseurl}}/img/project-canopy-banner.png "Project Canopy"
+  [hyperlink]: https://projectcanopy.org/
+  [image]: {{site.baseurl}}/img/project-canopy-banner.png "Project Canopy"
 
 ### Provide a centralized and easily accessible Congo River Basin rainforest data dashboard and repository
 
@@ -22,12 +22,9 @@ Source code can be found [here](https://github.com/Lambda-School-Labs/project-ca
 
 ---
 
-[![alt text][image2]][hyperlink2]{: .center-block :}
+![Spotify Song Suggester]({{site.baseurl}}/img/spotify-banner.png){: .center-block :}
 
-  [hyperlink2]: https://sss-data-backend.herokuapp.com/
-  [image2]: {{site.baseurl}}/img/spotify-banner.png "Spotify Song Suggester"
-
-## Spotify Song Suggester Data Backend
+## [Spotify Song Suggester Data Backend](https://sss-data-backend.herokuapp.com/)
 
 ### Suggest new tracks on Spotify related to user's input based on track's audio features
 
@@ -41,12 +38,9 @@ Source code can be found [here](https://github.com/bw-spotify-song-suggester-4/d
 
 ---
 
-[![alt text][image3]][hyperlink3]{: .center-block :}
+![Microsoft Malware Prediction]({{site.baseurl}}/img/microsoft-banner.png){: .center-block :}
 
-  [hyperlink3]: https://medium.com/@jwross24/predicting-malware-and-protecting-windows-machines-with-machine-learning-44cd92691fda
-  [image3]: {{site.baseurl}}/img/microsoft-banner.png "Microsoft Malware Prediction"
-
-## Microsoft Malware Prediction
+## [Microsoft Malware Prediction](https://medium.com/@jwross24/predicting-malware-and-protecting-windows-machines-with-machine-learning-44cd92691fda)
 
 ### Predictive modeling and machine learning with Microsoft Malware big dataset
 
@@ -61,12 +55,9 @@ Source code can be found [here](https://github.com/jwross24/DS-Unit-2-Build).
 
 ---
 
-[![alt text][image4]][hyperlink4]{: .center-block :}
+![Expedia Hotel Data Storytelling]({{site.baseurl}}/img/expedia-banner.jpg){: .center-block :}
 
-  [hyperlink4]: https://medium.com/@jwross24/expedia-wants-you-87217e12cbc3
-  [image4]: {{site.baseurl}}/img/expedia-banner.jpg "Expedia Hotel Data Storytelling"
-
-## Expedia Hotel Data Storytelling
+## [Expedia Hotel Data Storytelling](https://medium.com/@jwross24/expedia-wants-you-87217e12cbc3)
 
 ### Data storytelling and visualization project on 2015 Expedia hotel data for further business analysis
 

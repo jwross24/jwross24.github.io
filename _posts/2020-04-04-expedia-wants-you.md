@@ -21,7 +21,16 @@ Our goal is to explore the journey of a traveler through the Web site and uncove
 Our foray into the data begins with the engineered feature for **user continent**. From the graph, we can see that North American users offer a staggering 88% of the traffic to Expedia for hotels, and the other bars in the graph are tiny in comparison. If we analyze just the other 5 continents (sorry, Antarctica), then we see that Europe is the next most popular origin for Expedia users. Surprisingly, Oceania has the least number of searches, so maybe their market is taken up by other companies in the hotel realm of business.
 
 <p align="middle">
-  <img src="/img/expedia-hotel-data/eda/eda1.png" width="50%" />
-  <img src="/img/expedia-hotel-data/eda/eda2.png" width="50%" /> 
+  <img src="/img/expedia-hotel-data/eda/eda1.png" width="49.5%" />
+  <img src="/img/expedia-hotel-data/eda/eda2.png" width="49.5%" /> 
+</p>
+
+## The Mobile Market
+
+The next section of data that I was interested in exploring was the amount of **mobile traffic** that Expedia sees compared to PC users. We can see that each cluster of hotels has some sort of mobile activity, but by looking at the proportions for each cluster, mobile search is always outpaced by PC users in each cluster.
+
+<p align="middle">
+  <img src="/img/expedia-hotel-data/eda/eda3.png" width="49.5%" />
+  <img src="/img/expedia-hotel-data/eda/eda4.png" width="49.5%" /> 
 </p>
 

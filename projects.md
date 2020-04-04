@@ -5,6 +5,11 @@ subtitle: Ongoing and previous work
 published: true
 show-avatar: false
 ---
+[![alt text][image]][hyperlink]{: .center-block :}
+
+  [hyperlink]: https://projectcanopy.org/
+  [image]: {{site.baseurl}}/img/project-canopy-banner.png
+
 ![Project Canopy]({{site.baseurl}}/img/project-canopy-banner.png){: .center-block :}
 
 ## [Project Canopy](https://projectcanopy.org/)
@@ -21,11 +26,13 @@ Source code can be found [here](https://github.com/Lambda-School-Labs/project-ca
 
 ---
 
+![Spotify Banner](
+
 ## Spotify Song Suggester
 
 ### Suggest new tracks on Spotify related to user's input based on track's audio features
 
-Python (Flask | SQLAlchemy | Pandas | SciKit-Learn | matplotlib | NumPy) | JSON | REST API | AWS | PostgreSQL | Heroku
+Python (Flask \| SQLAlchemy \| Pandas \| SciKit-Learn \| matplotlib \| NumPy) \| JSON \| REST API \| AWS \| PostgreSQL \| Heroku
 
 - Built from scratch in less than 1 week with a team of eight other engineers in an Agile environment
 - Personally designed and built functionality for 8 REST API routes, architected database with over 131,000 tracks

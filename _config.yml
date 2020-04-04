@@ -100,10 +100,10 @@ share-links-active:
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "UA-162768018-1"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-162768018-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -212,10 +212,10 @@ prose:
     - 404.html
     - LICENSE
     - feed.xml
-    # - _config.yml
-    # - /_layouts
-    # - /_includes
-    # - /css
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /css
     - /img
     - /js
   metadata:

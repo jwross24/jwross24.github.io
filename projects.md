@@ -55,7 +55,7 @@ Source code can be found [here](https://github.com/jwross24/DS-Unit-2-Build).
 
 ---
 
-![Expedia Hotel Data Storytelling]({{site.baseurl}}/img/expedia-banner.jpg){: .center-block :}
+![Expedia Hotel Data Storytelling]({{site.baseurl}}/img/expedia-banner.png){: .center-block :}
 
 ## [Expedia Hotel Data Storytelling](https://medium.com/@jwross24/expedia-wants-you-87217e12cbc3)
 

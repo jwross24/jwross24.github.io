@@ -30,7 +30,7 @@ To see what I've learned or what I've done recently, head over to the [blog](htt
 
 ### Python Libraries and Frameworks
 
-**Data Analysis and Visualization:** Pandas, NumPy, matplotlib, Seaborn, Plotly
+**Data Analysis and Visualization:** Pandas, NumPy, matplotlib, Seaborn, SciPy, Plotly
 
 **Database:** FastAPI, Flask, SQLAlchemy, Psycopg2, SQLite3
 
